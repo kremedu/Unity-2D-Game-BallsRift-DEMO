@@ -1,0 +1,4 @@
+Base path: 'F:/Tools/Unity Hub/Hub/Editor/2020.1.10f1/Editor/Data', plugins path 'F:/Tools/Unity Hub/Hub/Editor/2020.1.10f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=9 insize=1957 outsize=1541 ok=1

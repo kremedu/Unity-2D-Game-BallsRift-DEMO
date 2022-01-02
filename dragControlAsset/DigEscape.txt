@@ -1,0 +1,43 @@
+++++++Rafting game
+
++++2 finger shoot baloons / jwick
+
+
+Shoot ball to ground to dig trough and escape machine eater. As you dig you charge up power visible by the glow of your dig hitter machine.
+Once fully charged swipe towards the machine eater to push him back.
+If machine eater hits player while he isnt charged up player dies game over. 
+
+Watch ad to respawn only once.
+Watch ad to unlock random skin daily.
+Watch ad to unlock respawn token.
+Watch ad every 3 deaths.
+
+Can use respawn token only 2 times a game. 1 from watch ad and 1 from token
+
+Power ups 
+allow you to radial blast away the machine eater drones.
+dig faster
+slow mo before moving ( to prevent bounce back hitting the machine eater )
+
+Character customization
+Ball - Default - Colour change
+Spherical Skins - Cat - Dog - Alien - Some Pokemon a likes
+
+Collectibles
+Coins to unlock skins - abilities - respawn token
+
+Every Dig +10 score points * stage of the game
+Every machine eater hit gives 500*stage of the game
+Every machine eater drone kill gives 50*stage of the game
+Coins give 1 score point.
+
+If player has managed to get over 10k score points unlock special skin.
+If player has managed to get over 1M score points remove forced ads
+
+++++++++Damage to Destructible = 5 + Velocity * VelocityToSTRmultiplier //-
+++++++++ When a destructible is hit with +30 velocity launch player to ground. //-
+++++++++ Hot Vents avoid to net get blast upwards.
+
+++Skins with Shader Effects
+
+++Player can stop move on drag start for a short time and cant stop or slow if hit by heat vents.
